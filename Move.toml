@@ -1,0 +1,10 @@
+[package]
+name = "userinfo"
+version = "0.0.0"
+
+[dependencies]
+AptosFramework = { local = "../../aptos-core/aptos-move/framework/aptos-framework" }
+
+[addresses]
+Sender = "0x42"
+
