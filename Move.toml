@@ -6,5 +6,5 @@ version = "0.0.0"
 AptosFramework = { local = "../../aptos-core/aptos-move/framework/aptos-framework" }
 
 [addresses]
-Sender = "0x42"
+Sender = "0x7CB7997F4EFEB24360446117369E3B55220F8A1F8A907DCB33C81E2A63E7E136"
 
